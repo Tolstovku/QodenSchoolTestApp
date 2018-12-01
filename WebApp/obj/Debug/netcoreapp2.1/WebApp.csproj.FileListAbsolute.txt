@@ -1,0 +1,14 @@
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/bin/Debug/netcoreapp2.1/WebApp.deps.json
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/bin/Debug/netcoreapp2.1/WebApp.runtimeconfig.json
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/bin/Debug/netcoreapp2.1/WebApp.runtimeconfig.dev.json
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/bin/Debug/netcoreapp2.1/WebApp.dll
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/bin/Debug/netcoreapp2.1/WebApp.pdb
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.csprojAssemblyReference.cache
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.csproj.CoreCompileInputs.cache
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.RazorAssemblyInfo.cache
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.RazorAssemblyInfo.cs
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.AssemblyInfoInputs.cache
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.AssemblyInfo.cs
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.RazorTargetAssemblyInfo.cache
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.dll
+/Users/daniil/Library/Mobile Documents/com~apple~CloudDocs/qodenGit/WebApp/obj/Debug/netcoreapp2.1/WebApp.pdb
